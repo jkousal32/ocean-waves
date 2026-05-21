@@ -1,5 +1,4 @@
-
-#!/bin/bash
+#!/usr/bin/env bash
 
 name="Your Name"
 email="your.email@example.com"
@@ -7,7 +6,7 @@ user=yourusername
 repo=ecwam
 repodir=/path/to/repo
 # token can be created in GitHub: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
-token_code=redacted 
+token_code=yourTokenCode 
 
 # --------------------------------------------------
 
