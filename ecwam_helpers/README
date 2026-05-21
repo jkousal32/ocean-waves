@@ -1,7 +1,10 @@
 Some helper functions for ease of use for ecwam repository https://github.com/ecmwf-ifs/ecwam
 
-They should be copied over to your ecwam repo
+They should be copied over to your ecwam repo (apart from the first one)
 They should be ran in this order
+
+<!-- setup repo -->
+xsetup_repo.sh
 
 <!-- build -->
 xbuild.sh
